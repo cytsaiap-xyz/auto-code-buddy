@@ -2,8 +2,6 @@
 
 A meta-skill for AI coding assistants that builds a personalized knowledge base from your coding sessions. Instead of starting fresh every conversation, Auto Code Buddy automatically retrieves past experiences, captures successful solutions, and gets smarter over time.
 
-Inspired by [Toolsai/auto-skill](https://github.com/Toolsai/auto-skill), adapted for OpenCode in English.
-
 ---
 
 ## Core Highlights
@@ -156,9 +154,3 @@ This ensures the knowledge system is always active, even when other skills are t
 
 MIT
 
----
-
-## Credits
-
-- Inspired by [Toolsai/auto-skill](https://github.com/Toolsai/auto-skill) by Prompt Case
-- Adapted for OpenCode in English
